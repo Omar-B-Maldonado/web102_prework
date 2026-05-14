@@ -1,6 +1,6 @@
 # WEB102 Prework - *Sea Monster*
 
-Submitted by: **Your Name Here**
+Submitted by: **Omar Maldonado**
 
 **Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
@@ -20,8 +20,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='src="https://github.com/user-attachments/assets/fcaa952d-c484-484c-aa76-b4090da02268"' title='Gif Walkthrough' width='' alt='Walkthrough of the filtering and counting features.' />
-<--img width="1425" height="783" alt="SeaMonster" src="https://github.com/user-attachments/assets/fcaa952d-c484-484c-aa76-b4090da02268" /-->
+<img src='https://github.com/user-attachments/assets/fcaa952d-c484-484c-aa76-b4090da02268' title='Gif Walkthrough' width='' alt='Walkthrough of the filtering and counting features.' />
+<!--img width="1425" height="783" alt="SeaMonster" src="https://github.com/user-attachments/assets/fcaa952d-c484-484c-aa76-b4090da02268" /-->
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](https://www.cockos.com/licecap/)
