@@ -24,7 +24,7 @@ Here's a walkthrough of implemented features:
 <!--img width="1425" height="783" alt="SeaMonster" src="https://github.com/user-attachments/assets/fcaa952d-c484-484c-aa76-b4090da02268" /-->
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [LiceCap](https://www.cockos.com/licecap/)
+GIF created with [LICEcap](https://www.cockos.com/licecap/)
 
 ## Notes
 
